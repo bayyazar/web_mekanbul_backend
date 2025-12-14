@@ -1,1 +1,1 @@
-https://mekanbul-backend-fo1y.vercel.app/
+https://web-mekanbul-backend.vercel.app
